@@ -31,7 +31,7 @@ Clicking on ok will show you all the table.
 9.Down load the source from the git hub from below location to your system
 Use below command to get the latest branch from git.
 
-git clone -c core.longpaths=true https://
+git clone -c core.longpaths=true https://github.com/ankumar1985/CS-Anish-August-GradleDemo.git
 Git checkout master
 
 10.go to the source location through command promt.
