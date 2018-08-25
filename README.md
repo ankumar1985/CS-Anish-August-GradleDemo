@@ -34,6 +34,10 @@ Use below command to get the latest branch from git.
 
 git clone -c core.longpaths=true https://github.com/ankumar1985/CS-Anish-August-GradleDemo.git
 
+cd CS-Anish-August-GradleDemo
+
+git status
+
 Git checkout master
 
 10.go to the source location through command promt.
