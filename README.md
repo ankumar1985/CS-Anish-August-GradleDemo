@@ -15,7 +15,7 @@ Steps to execute this project
   And provide the below command to execute the data base server.
   C:\<system location>\hsqldb-2.4.1\hsqldb\lib>java -cp hsqldb.jar org.hsqldb.Server
 
-4.Start the table interface.Open a new command prompt and go to the below path . 
+4.Start the HSQL Databse manager interface interface.Open a new command prompt and go to the below path . 
 C:\<system location>\hsqldb-2.4.1\hsqldb\lib>java -cp hsqldb.jar org.hsqldb.util.DatabaseManager
 
 It will open window.
