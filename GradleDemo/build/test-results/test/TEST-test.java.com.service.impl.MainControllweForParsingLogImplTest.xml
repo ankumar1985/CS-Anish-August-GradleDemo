@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.com.service.impl.MainControllweForParsingLogImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-08-25T18:30:11" hostname="DESKTOP-RG7RCHK" time="1.028">
+  <properties/>
+  <testcase name="test" classname="test.java.com.service.impl.MainControllweForParsingLogImplTest" time="0.011"/>
+  <testcase name="test" classname="test.java.com.service.impl.MainControllweForParsingLogImplTest" time="0.0"/>
+  <system-out><![CDATA[2018-08-26 00:00:11 INFO   ConnecToHsqlDBImpl:29 - [makeHsqldatabaseconnection : STARTS]
+2018-08-26 00:00:12 WARN   ConnecToHsqlDBImpl:64 - exceptionjava.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2018-08-26 00:00:12 INFO   ConnecToHsqlDBImpl:67 - [makeHsqldatabaseconnection : STARTS]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.com.service.impl.AllTests" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-RG7RCHK" time="0.0">
+  <properties/>
+  <system-out><![CDATA[2018-08-26 00:00:10 INFO   ConnecToHsqlDBImpl:29 - [makeHsqldatabaseconnection : STARTS]
+2018-08-26 00:00:11 WARN   ConnecToHsqlDBImpl:64 - exceptionjava.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2018-08-26 00:00:11 INFO   ConnecToHsqlDBImpl:67 - [makeHsqldatabaseconnection : STARTS]
+]]></system-out>
+  <system-err><![CDATA[log4j:ERROR Could not find value for key log4j.appender.INFO
+log4j:ERROR Could not instantiate appender named "INFO".
+]]></system-err>
+</testsuite>
