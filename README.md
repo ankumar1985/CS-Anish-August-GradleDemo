@@ -39,10 +39,12 @@ Git checkout master
 10.go to the source location through command promt.
 C:\<system path>\GradleDemo
 
-11.Execute the below command make sure your HSQL server data base is runing .
+11.Execute the below command make sure your HSQL server data base is running .
 
 C:\<system path>\GradleDemo>gradlew task
+
 C:\<system path>\GradleDemo>gradlew build
+
 C:\<system path>\GradleDemo>gradlew run
 
 And if build is succesfull,the project is completed and you can verify the results in database.
