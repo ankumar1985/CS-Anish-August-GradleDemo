@@ -10,15 +10,16 @@ Steps to execute this project
 
 1.Extract the hsqldb-2.4.1  from (https://sourceforge.net/projects/hsqldb/files/latest/download)to any location.
 2. Start the HSQL server data base.
+
 3.GO to the command prompt and to the path  hsqldb-2.4.1\hsqldb\lib
   And provide the below command to execute the data base server.
   C:\<system location>\hsqldb-2.4.1\hsqldb\lib>java -cp hsqldb.jar org.hsqldb.Server
 
-4.Start the table interface.
+4.Start the table interface.Open a new command prompt and go to the below path . 
 C:\<system location>\hsqldb-2.4.1\hsqldb\lib>java -cp hsqldb.jar org.hsqldb.util.DatabaseManager
 
 It will open window.
- Please change the URl to your loacl host url as -    jdbc:hsqldb:hsql://localhost:9001/  
+ Please change the URl to your localhost url as -    jdbc:hsqldb:hsql://localhost:9001/  
 
 Clicking on ok will show you all the table.
 
@@ -45,7 +46,9 @@ C:\<system path>\GradleDemo>gradlew run
 
 And if build is succesfull,the project is completed and you can verify the results in database.
 
-**********************************END OF THE PROJECT*************************************************
+12.Go to the HSQL Database manager console.Refresh the data and by selct query verify the result.
+
+**************************************END OF THE PROJECT*************************************************
 
 
 
