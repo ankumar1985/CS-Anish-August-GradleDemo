@@ -51,7 +51,7 @@ C:\<system path>\GradleDemo>gradlew build
 
 C:\<system path>\GradleDemo>gradlew run
 
-And if build is succesfull,the project is completed and you can verify the results in database.
+And if build is successful,the project is completed and you can verify the results in database.
 
 12.Go to the HSQL Database manager console.Refresh the data and by select query verify the result.
 
