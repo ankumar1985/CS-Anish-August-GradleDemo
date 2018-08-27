@@ -1,6 +1,6 @@
 # CS-Anish-August-GradleDemo
 
-Pre-requiste for this project
+Pre-requisite for this project
 
 1.System is having JDK 1.8 version
 2.Environmental variables are set for JAVA_HOME
